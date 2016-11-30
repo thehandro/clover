@@ -33,7 +33,7 @@ EFI_HANDLE            mResetHandle = NULL;
 
 ///
 /// Copy of ACPI Description HOB in runtime memory
-///
+///  
 EFI_ACPI_DESCRIPTION  mAcpiDescription;
 
 /**
